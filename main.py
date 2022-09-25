@@ -1,2 +1,2 @@
-print("aboba")
+print("pls donate robux!")
 print("  ඞ  ")
