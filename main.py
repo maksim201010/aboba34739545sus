@@ -1,0 +1,2 @@
+print("aboba")
+print("  ඞ  ")
